@@ -1,0 +1,297 @@
+﻿Chunking Logic,Prompt,Use Case,Question,Answer
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,How do I request service for my Fluke multimeter?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,Can you guide me through the process of sending my Fluke thermal imager in for service?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,I own a Fluke oscilloscope. How can I arrange for servicing?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,What's the turnaround time for servicing a Fluke clamp meter?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,My Fluke power quality analyzer needs attention. How should I proceed?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,Is there a specific form to fill out for requesting service for my Fluke process calibrator?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,I need to get my Fluke infrared thermometer serviced. What's the procedure?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,Could you provide details on the service options available for Fluke electrical testers?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,I'm experiencing issues with my Fluke digital multimeter. How can I get it repaired?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,What information do I need to provide when requesting service for my Fluke insulation tester?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,I want to have servicing of my tester
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,Can I get my tester calliberated ?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,Want to know about Fluke 2052 Advanced Wire Tracer Kit
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,How can i get in touch with your service center
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,MY calibrator is not working properly what should I do 
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,"Can I get my tester repaired , if yes how ?"
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1005,"My Fluke 2062 Advanced Pro Wire Tracer Kit is not working , what should I do"
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,I have a Fluke multimeter that needs calibration. How can I arrange that?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,What's the process for sending my Fluke thermal camera in for calibration?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,My Fluke oscilloscope is due for calibration. Can you provide guidance on how to proceed?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,I'm interested in getting my Fluke clamp meter calibrated. How do I initiate the process?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,Could you explain the steps for calibrating my Fluke power quality analyzer?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,Is there a specific form I need to fill out for requesting calibration of my Fluke process calibrator?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,I need to get my Fluke infrared thermometer calibrated. What information do you require from me?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,Can you provide details about the available calibration options for Fluke electrical testers?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,My Fluke digital multimeter is in need of calibration. What's the procedure to get it done?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,What documents or details do I need to provide when requesting calibration for my Fluke insulation tester?
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,"My oscilloscope needs calibration, what should i do ?"
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,how can i get my fluke instrument calibrated  
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,Where I can find the contact info to calibrate my device 
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,want to put my product for calibration 
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,Can fluke assist me to calibrate my device 
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,my product needs calibration 
+,"You don't engage on unrelated topics. 
+    Keep your answers brief. 
+    The following context is a list of documents, provided by first naming the source (SOURCE), then the URL link (URL), and then the content (CONTENT). 
+    Each document is separated by newline characters. 
+    Reference the name of the source as ""[SOURCE]"", with the respective URL hyperlinked, at the end of a specific sentence where the respective content is utilized in your answer. 
+    If the URL is not available, then don't reference it.
+    Use the following content in the context to aid in your answer: {search_content}",UC1006,I want to send my product for calibration. 
+,,UC-1007,Is there an online option for registering my Fluke clamp meter on Fluke's main site?
+,,UC-1007,I've purchased a Fluke multimeter. How can I register it on Fluke's main website?
+,,UC-1007,"For my new Fluke process calibrator, is there an online form I should fill out for registration?"
+,,UC-1007,"When registering my Fluke insulation tester on Fluke's main site, what information will I need?"
+,,UC-1007,I have a Fluke calibrator. Could you guide me through the steps to register it on FlukeCal.com?
+,,UC-1007,How do I register my Fluke temperature calibration tool on the FlukeCal website?
+,,UC-1007,I just received a Fluke pressure calibrator. How do I go about registering it on FlukeCal.com?
+,,UC-1007,I purchased a Fluke Networks cable tester. How can I register it on the Fluke Networks website?
+,,UC-1007,How do I register my Fluke Networks network troubleshooting tool on the Fluke Networks website?
+,,UC-1007,Can you provide details on registering my Fluke Process Instruments signal calibrator on FlukeProcessInstruments.com?
+,,UC-1007,What's the procedure for registering my Fluke Process Instruments temperature profiler?
+,,UC-1031,"I purchased a Fluke 87V Digital Multimeter from Fluke.com, and it's not displaying readings properly. How can I troubleshoot this issue?"
+,,UC-1031,"I have a Fluke 789 ProcessMeter from Fluke.com, and I'm unsure how to use its advanced features for loop calibration. Are there tutorials available?"
+,,UC-1031,My Fluke 744 Documenting Process Calibrator from FlukeCal.com seems to be out of calibration. How can I perform a self-test or initiate a recalibration?
+,,UC-1031,"I'm using aFluke 2271A Industrial Pressure Calibrator, and I'm encountering an error message during the calibration process. Where can I find information about error codes?"
+,,UC-1031,"I recently acquired a Fluke Networks DSX CableAnalyzer from FlukeNetworks.com, but it's not recognizing some cable types. How can I troubleshoot cable compatibility?"
+,,UC-1031,My Products Copper testers Fluke Networks TS100-PRO-BT-TDR Cable Fault Finder with Bridge Tap Detect is reporting issues with ink quality. How can I interpret the test results and identify potential problems?
+,,UC-1031,"I'm using a Fluke Networks FiberLert™ Detector 
+and I'd like to understand its integration with cloud services. Where can I find documentation on cloud connectivity?"
+,,UC-1031,"I purchased a Fluke Networks LinkIQ™ Cable+Network Tester and after a firmware update, I'm experiencing connectivity problems. Can I revert to the previous firmware version?"
+,,UC-1031,"I'm working with a Fluke 753 Documenting Process Calibrator from FlukeCal.com, but I've misplaced the user manual. Is there a digital version available for download?"
+,,UC-1031,My Fluke Networks CIQ-KRQ Copper Qualification Tester Kit is giving inconsistent test results. How can I ensure accurate and reliable certification?
+,,UC-1032,I'm interested in purchasing a Fluke digital multimeter. How can I find a list of authorized distributors near me?
+,,UC-1032,Is there a way to search for distributors that carry Fluke insulation testers in my region?
+,,UC-1032,I'm looking to buy a Fluke thermal camera. Can you help me locate distributors that have this product available?
+,,UC-1032,Where can I find a list of authorized distributors that offer Fluke process calibrators in my area?
+,,UC-1032,I want to purchase a Fluke power quality analyzer. How do I find distributors that carry this product in stock?
+,,UC-1032,Is there a tool on your website that helps me identify distributors selling Fluke clamp meters near my location?
+,,UC-1032,I'm interested in buying a Fluke network analyzer. Can you assist me in finding local distributors that supply this equipment?
+,,UC-1032,How can I get a list of authorized distributors that offer Fluke electrical testers in different parts of the country?
+,,UC-1032,m searching for a distributor with Fluke digital pressure gauges available. Where can I find this information?
+,,UC-1032,Is there a distributor locator tool on your website that can help me find sources for Fluke process measurement instruments?
+,,UC-1034,I need the user manual for the Fluke 87V Digital Multimeter. Can you help me locate it on your website?
+,,UC-1034,Where can I find the technical specifications document for the Fluke 789 ProcessMeter? I need detailed information about its capabilities.
+,,UC-1034,Is there a product guide available for the Fluke 744 Documenting Process Calibrator? I want to understand its features and operation.
+,,UC-1034,I'm looking for the datasheet of the Fluke 5522A Multi-Product Calibrator. Can you direct me to the relevant documentation?
+,,UC-1034,How can I access the user manual for the Fluke Networks DSX CableAnalyzer? I need to understand its functions before using it.
+,,UC-1034,Is there a document that explains how to interpret the results from the Fluke Networks OptiFiber Pro OTDR?
+,,UC-1034,I need the installation guide for the Fluke Networks LinkRunner G2. Where can I download it?
+,,UC-1034,Where can I find the programming manual for the Fluke 753 Documenting Process Calibrator? I'd like to automate some processes.
+,,UC-1034,I'm searching for the user manual of the Fluke Networks Versiv Cable Certifier. How can I access it?
+,,UC-1034,Is there a technical reference document available for the Fluke Process Instruments temperature controller? I'm looking for in-depth information.
+,,UC-1035,How can I get in touch with Fluke customer service to inquire about a product issue I'm facing?
+,,UC-1035,Is there a dedicated technical support hotline I can call for assistance with troubleshooting my Fluke equipment?
+,,UC-1035,I need help with a product warranty claim. How do I reach Fluke's customer service team to discuss this?
+,,UC-1035,I'm encountering a technical problem with my Fluke device. How can I submit a support ticket or request assistance online?
+,,UC-1035,Can you provide me with the email address for Fluke's technical support? I have some questions regarding proper usage of my equipment.
+,,,Which Fluke product provides accurate insulation resistance measurements for electrical systems?
+,,,What tool does Fluke offer for conducting energy audits and assessing power consumption?
+,,,"If I need to identify circuit breakers quickly and efficiently, which Fluke tool would you suggest?"
+,,,Which Fluke device is suitable for performing infrared inspections of electrical panels?
+,,,What Fluke product should I use to troubleshoot and maintain HVAC systems?
+,,,Which Fluke tool is best suited for troubleshooting industrial control systems?
+,,,"If I need to measure temperature, which Fluke device should I consider?"
+,,,What Fluke product would be ideal for testing the integrity of Ethernet cables?
+,,,Which Fluke tool is commonly used for testing and calibrating pressure instrumentation?
+,,,"If I want to diagnose motor drive issues, which Fluke instrument should I use?"
+,,,i want to replace my product.

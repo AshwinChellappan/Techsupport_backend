@@ -1,0 +1,17 @@
+fastapi<1.0
+uvicorn<0.22
+lorem-text<=2.1.x
+openai==0.27.0
+fastapi-azure-auth==4.0.0
+python-dotenv
+pyodbc==4.0.39
+PyJWT==2.6.0
+azure-identity<2.0.0
+pypdf==3.5.0
+azure-search-documents==11.4.0b3
+azure-ai-formrecognizer==3.2.1
+azure-storage-blob==12.14.1
+pandas==2.0.3
+scikit-learn>=0.18
+requests==2.26.0
+nltk==3.8.1
